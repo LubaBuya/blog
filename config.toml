@@ -1,4 +1,4 @@
-baseurl = "http://tutor.mn"
+baseurl = "https://lubabuya.github.io/"
 theme = "hugo-geo"
 #themesdir = "../.."
 relativeURLs = true
