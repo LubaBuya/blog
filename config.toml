@@ -19,5 +19,7 @@ paginate = 5
 	title = ""
 	subtitle = "Scattered projects and ideas"
 
-	
+	[[params.socialbuttons]]
+	faicon = "github"
+	url = "https://github.com/LubaBuya/blog"
 	
