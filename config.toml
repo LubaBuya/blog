@@ -1,7 +1,7 @@
 baseurl = "https://lubabuya.github.io/"
 theme = "hugo-geo"
 #themesdir = "../.."
-relativeURLs = false
+relativeURLs = true
 languageCode = "en-us"
 title = ""
 disqusShortname = "shortcode-here"
