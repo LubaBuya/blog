@@ -4,4 +4,4 @@ date: 2018-02-18
 draft: false
 ---
 
-[Work In Progress]
+[Educational blog post series for blockchain fundamentals. Work In Progress]
