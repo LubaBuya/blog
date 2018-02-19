@@ -5,7 +5,9 @@ relativeURLs = true
 languageCode = "en-us"
 title = ""
 disqusShortname = "shortcode-here"
+googleAnalytics = "UA-114322442-1" #Google Analytics ID
 paginate = 5
+
 
 [taxonomies]
 	tag = "tags"
