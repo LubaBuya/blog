@@ -33,7 +33,7 @@ DAO tokens нь Howey тестүүдийг давсан учраас securities 
 Howey-н нэгдүгээр тест үнэн болов.
 
 * *III-B 3. With a Reasonable Expectation of Profits*  
-“Investors who purchased DAO Tokens were investing in a common enterprise and reasonably expected to earn profits through that enterprise when they sent ETH to The DAO’s Ethereum Blockchain address in exchange for DAO Tokens. “[P]rofits” include “dividends, other periodic payments, or the increased value of the investment.”* (page 11)
+“Investors who purchased DAO Tokens were investing in a common enterprise and reasonably expected to earn profits through that enterprise when they sent ETH to The DAO’s Ethereum Blockchain address in exchange for DAO Tokens. “[P]rofits” include “dividends, other periodic payments, or the increased value of the investment.” (page 11)
 
 Howey-н хоёрдугаар тест үнэн болов.
 
